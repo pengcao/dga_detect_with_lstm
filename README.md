@@ -13,6 +13,9 @@
 - 整个模型如下所示：数据处理->Embedding->LSTM->attention_tanh->Flatten->Dropout->Dense->Activation->compile->fit
 - dga_train.py对域名进行训练，dga_test.py对数据进行测试
 
+# 训练结果
+![lstm_train](lstm_train.png)
+
 # 代码简介
 - model：lstm模型构建，核心层
 - test_data：测试数据
