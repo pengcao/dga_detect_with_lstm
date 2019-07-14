@@ -1,7 +1,7 @@
 # dga_detect_with_lstm
 
 # 功能
-- 构建深度学习模型对dga模型进行监测
+- 构建深度学习模型对dga模型进行检测
 
 # dga
 近年来, 僵尸网络控制者为了躲避打击、确保僵尸网络控制通道畅通, 普遍采用一种名为DGA（Domain Generation Algorithm）的域名生成算法。
@@ -21,9 +21,9 @@
 - dga_test.py对数据进行测试
 
 # 所依赖的主要lib
-tensorflow                  1.12.0
-Keras                       2.2.4
-python                      3.6.4
+- tensorflow                  1.12.0
+- Keras                       2.2.4
+- python                      3.6.4
 
 ## 在跑的过程中遇到了问题，请联系
   邮箱：deamoncao@163.com
